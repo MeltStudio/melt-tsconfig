@@ -4,5 +4,16 @@
   "description": "Melt Studio's TSConfig's",
   "repository": "https://github.com/MeltStudio/melt-tsconfig",
   "author": "Melt Studio <dev@meltstudio.co>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.0",
+    "prettier": "^2.8.4"
+  }
 }
