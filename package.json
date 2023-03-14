@@ -5,6 +5,17 @@
   "repository": "https://github.com/MeltStudio/melt-tsconfig",
   "author": "Melt Studio <dev@meltstudio.co>",
   "license": "MIT",
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "files": [
+    "nextjs.json",
+    "node16.json",
+    "node18.json",
+    "react-native.json",
+    "react.json"
+  ],
   "scripts": {
     "generate": "./scripts/generate.js",
     "generate:check": "./scripts/check.sh",
