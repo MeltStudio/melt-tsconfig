@@ -1,6 +1,6 @@
 {
   "name": "@meltstudio/tsconfig",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Melt Studio's TSConfig's",
   "repository": "https://github.com/MeltStudio/melt-tsconfig",
   "author": "Melt Studio <dev@meltstudio.co>",
