@@ -1,0 +1,6 @@
+{
+  "extends": ["@meltstudio/eslint-config/node-js"],
+  "rules": {
+    "no-console": "off"
+  }
+}
