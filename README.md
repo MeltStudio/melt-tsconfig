@@ -2,6 +2,9 @@
 
 Melt Studio's TypeScript configurations.
 
+_**Important:** This configurations require TypeScript 5 or higher, if you want
+to use TypeScript 4 install version 1._
+
 ## Installation
 
 ```bash

@@ -8,7 +8,6 @@
     "composite": false,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "importsNotUsedAsValues": "error",
     "isolatedModules": true,
     "lib": ["ES2021"],
     "module": "CommonJS",
@@ -23,6 +22,7 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-    "target": "ES2021"
+    "target": "ES2021",
+    "verbatimModuleSyntax": true
   }
 }
