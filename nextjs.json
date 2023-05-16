@@ -31,6 +31,6 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "ES5",
-    "verbatimModuleSyntax": true
+    "verbatimModuleSyntax": false
   }
 }
