@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/MeltStudio/melt-tsconfig/compare/v2.0.0...v2.0.1) (2023-05-16)
+
+
+### Bug Fixes
+
+* disable verbatimModuleSyntax ([1101f4c](https://github.com/MeltStudio/melt-tsconfig/commit/1101f4c0fa1aab9fb4611536fa6ab91d1a28b81e))
+
 # [2.0.0](https://github.com/MeltStudio/melt-tsconfig/compare/v1.0.0...v2.0.0) (2023-04-04)
 
 
