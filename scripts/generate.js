@@ -20,6 +20,21 @@ const CONFIGS = [
     parents: ['base.json', 'strict.json', 'node18.json'],
   },
   {
+    name: 'Node20',
+    filename: 'node20.json',
+    parents: ['base.json', 'strict.json', 'node20.json'],
+  },
+  {
+    name: 'Node22',
+    filename: 'node22.json',
+    parents: ['base.json', 'strict.json', 'node22.json'],
+  },
+  {
+    name: 'Node24',
+    filename: 'node24.json',
+    parents: ['base.json', 'strict.json', 'node24.json'],
+  },
+  {
     name: 'ReactNative',
     filename: 'react-native.json',
     parents: ['base.json', 'strict.json', 'react-native.json'],
