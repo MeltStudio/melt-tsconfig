@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/MeltStudio/melt-tsconfig/compare/v2.0.1...v2.1.0) (2026-08-24)
+
+
+### Features
+
+* migrate to flat config, bump deps, add node20/22/24 presets ([cd0847f](https://github.com/MeltStudio/melt-tsconfig/commit/cd0847f19ce3187f0637896f1ef55a9f6e92ea2a))
+
 ## [2.0.1](https://github.com/MeltStudio/melt-tsconfig/compare/v2.0.0...v2.0.1) (2023-05-16)
 
 
